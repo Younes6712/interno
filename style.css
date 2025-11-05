@@ -9,16 +9,14 @@ a{
 .homeservice{
     display: flex;
     justify-content: space-around
-    
-
 }
+
 
 .homebla{
 
     display: flex;
     gap: 24px;
     }
-
 
     .description1{
         display: flex;
